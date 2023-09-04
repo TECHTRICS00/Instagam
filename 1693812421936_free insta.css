@@ -1,0 +1,28 @@
+.box
+{
+    width:30%;
+    height: 10cm;
+    border-style:double;
+    border-color: black;
+    background-color: hsl(75, 100%, 45%);
+    padding: 90px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: auto;
+    background-image: url("insta.webp");
+    background-repeat: no-repeat;
+    background-position: right top;
+  background-attachment: fixed;
+  border-width: 1cm;
+}
+.box2
+{
+    width:2%;
+    height: 1cm;
+    border-style:double;
+    border-color: black;
+}
+.background
+{
+ height: 50%;
+}
